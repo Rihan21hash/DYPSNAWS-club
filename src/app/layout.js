@@ -16,15 +16,25 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: "AWS Student Builders - Build. Learn. Deploy.",
+  title: {
+    default: "DYPSN | AWS Student Builder Group",
+    template: "%s | DYPSN AWS Builders",
+  },
   description:
     "The official AWS Cloud Student Builder Group of D.Y Patil Salonkhenagar — a high-performance technical collective dedicated to mastering cloud architecture.",
+  icons: {
+    icon: "/BuilderLogo.png",
+    shortcut: "/BuilderLogo.png",
+    apple: "/BuilderLogo.png",
+  },
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={`${geist.variable} ${jetbrainsMono.variable}`}>
       <head>
+        <link rel="icon" href="/BuilderLogo.png" type="image/png" />
+        <link rel="apple-touch-icon" href="/BuilderLogo.png" />
         <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=swap"
