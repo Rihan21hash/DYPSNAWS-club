@@ -1,0 +1,91 @@
+[
+  {
+    "slug": "aws-fundamental-session",
+    "title": "AWS Fundamental Session",
+    "date": "18/August/2026",
+    "desc": "AWS Fundamental Session",
+    "type": "WORKSHOP",
+    "color": "#A855F7",
+    "location": "CCF, DYPSN",
+    "capacity": 100,
+    "status": "Upcoming",
+    "featured": true,
+    "registrationType": "redirect",
+    "externalRegistrationUrl": "localhost:3001",
+    "prerequisites": [],
+    "schedule": [
+      {
+        "time": "11:00 AM",
+        "topic": "Introduction & Keynote"
+      }
+    ],
+    "speakers": [],
+    "formFields": [],
+    "images": [],
+    "videos": []
+  },
+  {
+    "slug": "cloud-101-workshop",
+    "title": "AWS Cloud Club inuagration",
+    "date": "April 13, 2026",
+    "desc": "Join us for the official launch of AWS Cloud Club! \nBe part of our grand inuagration, followed by an exclusive guest lecture from an industry expert. Discover the power of cloud computing, network with peers, and kickstart your tech journey on campus",
+    "type": "FESTIVAL",
+    "color": "#8B5CF6",
+    "schedule": [
+      {
+        "time": "11:00 AM",
+        "topic": "Welcome & Orientation"
+      },
+      {
+        "time": "11:30 AM",
+        "topic": "What is Cloud Computing?"
+      },
+      {
+        "time": "1:00 PM",
+        "topic": "Q&A and Networking"
+      }
+    ],
+    "prerequisites": [],
+    "speakers": [],
+    "location": "Panini Hall, DYPSN",
+    "capacity": 150,
+    "images": [],
+    "videos": [],
+    "formFields": [
+      {
+        "label": "Name",
+        "type": "text",
+        "required": true,
+        "options": ""
+      },
+      {
+        "label": "Email address",
+        "type": "email",
+        "required": true,
+        "options": ""
+      },
+      {
+        "label": "phone No.",
+        "type": "tel",
+        "required": true,
+        "options": ""
+      },
+      {
+        "label": "Select department",
+        "type": "select",
+        "required": true,
+        "options": "Data science, Cse, Civil, Electrical"
+      },
+      {
+        "label": "Academic Year",
+        "type": "select",
+        "required": true,
+        "options": "First year, Second year, Third year, Final year"
+      }
+    ],
+    "status": "upcoming",
+    "featured": true,
+    "registrationType": "form",
+    "externalRegistrationUrl": ""
+  }
+]

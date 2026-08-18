@@ -1,0 +1,15 @@
+[
+  {
+    "id": "aws-fundamentals",
+    "title": "AWS Fundamentals Challenge",
+    "description": "Test your knowledge of core AWS services, cloud architecture, IAM, pricing, and more with immediate feedback.",
+    "status": "live",
+    "timeLimitSeconds": 30,
+    "color": "#8B5CF6",
+    "isExternalRedirect": true,
+    "externalUrl": "https://wayground.com/join",
+    "questionCount": 5,
+    "questions": [],
+    "createdAt": "2026-04-01T10:00:00.000Z"
+  }
+]

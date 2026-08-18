@@ -1,0 +1,77 @@
+{
+  "members": [
+    {
+      "id": "tushar-kumbhar",
+      "name": "Tushar Kumbhar",
+      "role": "Captain",
+      "tagline": "Architecting the future, one cloud at a time",
+      "avatar": "TK",
+      "color": "#A855F7",
+      "bio": "Leads the AWS Student Builder Group vision, organizing flagship events and guiding students on cloud architectures.",
+      "certifications": [
+        "AWS Certified Cloud Practitioner"
+      ],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      }
+    },
+    {
+      "id": "malhar-dhavale",
+      "name": "Malhar Dhavale",
+      "role": "Technical Lead",
+      "tagline": "Turning cloud ideas into scalable reality",
+      "avatar": "MD",
+      "color": "#C084FC",
+      "bio": "DevOps enthusiast managing technical infrastructure and hands-on lab environments for workshops.",
+      "certifications": [],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      }
+    },
+    {
+      "id": "kabir-wakarekar",
+      "name": "Kabir Wakarekar",
+      "role": "Technical Team",
+      "tagline": "Building high-performance cloud apps",
+      "avatar": "KW",
+      "color": "#7C3AED",
+      "bio": "Core technical team member managing cloud infrastructure and student workshops.",
+      "certifications": [],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      }
+    },
+    {
+      "id": "rajwardhan-patil",
+      "name": "Rajwardhan Patil",
+      "role": "Technical Team",
+      "tagline": "Engineering excellence on AWS",
+      "avatar": "RP",
+      "color": "#9333EA",
+      "bio": "Core technical team member passionate about full-stack engineering and cloud automation.",
+      "certifications": [],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      }
+    },
+    {
+      "id": "rihan-mulla",
+      "name": "Rihan Mulla",
+      "role": "Technical Team",
+      "tagline": "Cloud operations & security",
+      "avatar": "RM",
+      "color": "#8B5CF6",
+      "bio": "Core technical team member focusing on cloud security and backend systems.",
+      "certifications": [],
+      "social": {
+        "github": "https://github.com",
+        "linkedin": "https://linkedin.com"
+      }
+    }
+  ],
+  "contributors": []
+}
